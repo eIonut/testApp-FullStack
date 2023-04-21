@@ -1,9 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/eIonut/testApp-backend.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/eIonut/appTest-frontend.git
 [submodule "app"]
 	path = app
 	url = https://github.com/eIonut/testApp-frontend.git
